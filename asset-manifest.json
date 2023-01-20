@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/championsApp/static/css/main.80f68a7c.css",
-    "main.js": "/championsApp/static/js/main.e0940a6e.js",
+    "main.css": "/championsApp/static/css/main.88b413d7.css",
+    "main.js": "/championsApp/static/js/main.ea9c1b8e.js",
     "static/js/787.693993db.chunk.js": "/championsApp/static/js/787.693993db.chunk.js",
     "index.html": "/championsApp/index.html",
-    "main.80f68a7c.css.map": "/championsApp/static/css/main.80f68a7c.css.map",
-    "main.e0940a6e.js.map": "/championsApp/static/js/main.e0940a6e.js.map",
+    "main.88b413d7.css.map": "/championsApp/static/css/main.88b413d7.css.map",
+    "main.ea9c1b8e.js.map": "/championsApp/static/js/main.ea9c1b8e.js.map",
     "787.693993db.chunk.js.map": "/championsApp/static/js/787.693993db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80f68a7c.css",
-    "static/js/main.e0940a6e.js"
+    "static/css/main.88b413d7.css",
+    "static/js/main.ea9c1b8e.js"
   ]
 }
