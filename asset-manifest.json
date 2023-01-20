@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/championsApp.git/static/css/main.80f68a7c.css",
-    "main.js": "/championsApp.git/static/js/main.5680b842.js",
-    "static/js/787.693993db.chunk.js": "/championsApp.git/static/js/787.693993db.chunk.js",
-    "index.html": "/championsApp.git/index.html",
-    "main.80f68a7c.css.map": "/championsApp.git/static/css/main.80f68a7c.css.map",
-    "main.5680b842.js.map": "/championsApp.git/static/js/main.5680b842.js.map",
-    "787.693993db.chunk.js.map": "/championsApp.git/static/js/787.693993db.chunk.js.map"
+    "main.css": "/championsApp/static/css/main.80f68a7c.css",
+    "main.js": "/championsApp/static/js/main.e0940a6e.js",
+    "static/js/787.693993db.chunk.js": "/championsApp/static/js/787.693993db.chunk.js",
+    "index.html": "/championsApp/index.html",
+    "main.80f68a7c.css.map": "/championsApp/static/css/main.80f68a7c.css.map",
+    "main.e0940a6e.js.map": "/championsApp/static/js/main.e0940a6e.js.map",
+    "787.693993db.chunk.js.map": "/championsApp/static/js/787.693993db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80f68a7c.css",
-    "static/js/main.5680b842.js"
+    "static/js/main.e0940a6e.js"
   ]
 }
